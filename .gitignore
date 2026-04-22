@@ -2,9 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-
-/.vs/wwwroot.slnx/FileContentIndex/f852b0fb-6219-4dfd-8651-3074b757217d.vsidx
-/.vs/slnx.sqlite
-/.vs/wwwroot.slnx/FileContentIndex/e302fd36-8c1c-4815-ae3d-36de26e3927e.vsidx
-/.vs/slnx.sqlite
-*.vsidx
+/.vs
