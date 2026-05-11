@@ -182,14 +182,16 @@ div.opponent
     background-color: gold;
 }
 
+.home, .away {
+    margin-bottom: 5px;
+}
+
 .away {
     background-color: aliceblue;
-    margin-bottom: 10px;
 }
 
 .home {
     background-color: lightgoldenrodyellow;
-    margin-bottom: 10px;
 }
 
 div[nowrap] {
