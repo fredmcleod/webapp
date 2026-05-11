@@ -154,3 +154,38 @@ code {
 #original_link, .recipeCategory, #made_this, #starred, #rating, #ratingValue, #recipeYield, .recipeIngredient_note, .recipeIngredient, .instruction, .instruction_next, .recipeNote {
 }
 /*copy me that*/
+
+.football-schedule td
+{
+    border-style:solid;
+    border-width: 1px;
+    padding:10px;
+}
+
+a {
+    color:darkblue;
+}
+
+
+.football-schedule td 
+{
+    text-align:center;
+}
+
+.warriors a {
+    color: black;
+}
+
+.opponent
+{
+    font-weight: bold;
+    background-color: gold;
+}
+
+.away {
+    background-color:aliceblue;
+}
+
+.home {
+    background-color: lightgoldenrodyellow;
+}
