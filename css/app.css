@@ -176,7 +176,7 @@ a {
     color: black;
 }
 
-.opponent
+div.opponent
 {
     font-weight: bold;
     background-color: gold;
@@ -188,4 +188,13 @@ a {
 
 .home {
     background-color: lightgoldenrodyellow;
+}
+
+div[nowrap] {
+    white-space: nowrap;
+}
+
+.title {
+    font-size: 1.4em;
+    display: table;
 }
